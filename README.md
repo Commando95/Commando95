@@ -1,100 +1,18 @@
-<h1 align="center">Hi 👋, I'm Piyush Chittauria</h1>
+# 💫 About Me:
+👨‍💻 About Me<br><br>I’m a passionate full-stack developer who enjoys building scalable web applications and solving real-world problems through clean and efficient code.<br>Currently exploring backend architecture, API development, and AI-powered automation systems.<br><br>I love turning ideas into working products 🚀
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Focused+Engineer;AI+Automation+Builder;Problem+Solver+%7C+Continuous+Learner" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Commando95&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Commando95&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Commando95&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Commando95&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-## 🚀 About Me  
-
-💼 Software Developer Intern at **QT Loads Tech & Transit Pvt. Ltd.**  
-🎓 MCA Graduate | Jamia Hamdard  
-🎓 B.Com | Delhi University  
-
-I build scalable web applications and automation systems that solve real-world problems.  
-Currently focused on backend architecture, API development, and AI-powered automation tools.
-
-I believe in:  
-⚡ Clean Code  
-⚡ Practical Problem Solving  
-⚡ Continuous Growth  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Commando95&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Commando95&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack  
-
-### 👨‍💻 Languages  
-<p>
-<img src="https://skillicons.dev/icons?i=js,python,java,cpp" />
-</p>
-
-### 🎨 Frontend  
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,jquery" />
-</p>
-
-### ⚙️ Backend  
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Databases  
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
----
-
-## 🔥 Featured Projects  
-
-🧠 **Disease Prediction App** – ML-based health prediction system  
-🌐 **Personal Portfolio Website** – Modern responsive developer portfolio  
-🤖 **AI Social Media Automation Agent** – Auto-generates and posts AI content *(In Progress)*  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Commando95&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Commando95&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Commando95&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Graph  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Commando95/Commando95/output/github-contribution-grid-snake.svg" />
-</p>
-
-> ⚠️ To activate the snake animation, I can guide you in setting up GitHub Actions for it.
-
----
-
-## 📫 Connect With Me  
-
-<p>
-<a href="https://github.com/Commando95" target="blank">
-<img src="https://skillicons.dev/icons?i=github" height="35" />
-</a>
-<a href="https://www.linkedin.com/in/piyush-chittauria-802376255" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="35" />
-</a>
-</p>
-
----
-
-<h3 align="center">⚡ Building. Learning. Growing.</h3>
-
-<p align="center">
-⭐️ If you like my work, consider giving a star to my repositories!
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
