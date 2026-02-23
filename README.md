@@ -68,15 +68,7 @@ I believe in:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Commando95&layout=compact&theme=tokyonight" />
 </p>
 
----
 
-## 🐍 Contribution Graph  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Commando95/Commando95/output/github-contribution-grid-snake.svg" />
-</p>
-
-> ⚠️ To activate the snake animation, I can guide you in setting up GitHub Actions for it.
 
 ---
 
