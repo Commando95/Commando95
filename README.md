@@ -53,7 +53,7 @@ I believe in:
 ## 🔥 Featured Projects  
 
 🧠 **Disease Prediction App** – ML-based health prediction system  
-🌐 **Personal Portfolio Website** – Modern responsive developer portfolio  
+🌐 **Personal Portfolio Website** – Modern responsive developer portfolio
 🤖 **AI Social Media Automation Agent** – Auto-generates and posts AI content *(In Progress)*  
 
 ---
