@@ -65,7 +65,7 @@ I believe in:
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Commando95&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Commando95&layout=compact&theme=tokyonight" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Commando95&layout=compact&theme=tokyonight" /> -->
 </p>
 
 
